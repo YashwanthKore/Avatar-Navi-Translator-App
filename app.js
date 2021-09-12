@@ -20,7 +20,7 @@ function translateLanguage(){
    })
    .catch(error => {
        alert("Some error occured to the server")
-       console.log(error)
+    //    console.log(error)
    })
 
 }
